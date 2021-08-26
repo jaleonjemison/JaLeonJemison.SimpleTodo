@@ -1,6 +1,5 @@
-# Project 1 - *Name of App Here*
-
-**Name of your app** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
+# Project 1 - Simple todo Ja'Leon Jemison
+Simple todo Ja'Leon Jemison is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
 
 Submitted by: **Ja'Leon Jemison**
 
@@ -16,7 +15,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [x] User can **tap a todo item in the list and bring up an edit screen for the todo item** and then have any changes to the text reflected in the todo list
+* [ ] User can **tap a todo item in the list and bring up an edit screen for the todo item** and then have any changes to the text reflected in the todo list
 
 The following **additional** features are implemented:
 
